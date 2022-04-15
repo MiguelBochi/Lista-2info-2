@@ -1,0 +1,14 @@
+.conteiner {
+    width: 50%;
+    margin: 20px auto 0px auto;
+}
+ul li{
+    list-style-type: none;
+
+}
+.removed{
+    color: gray;
+}
+.removed label{
+    text-decoration: line-through;
+}
